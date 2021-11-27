@@ -1,0 +1,2 @@
+class KarginBot:
+    pass
