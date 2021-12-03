@@ -1,0 +1,11 @@
+fuzzywuzzy
+
+pandas
+numpy
+matplotlib
+plotly
+
+pytest
+
+telegram
+googleapiclient
