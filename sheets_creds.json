@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "youtube-304617",
+  "private_key_id": "36cf4900045b9d285dfc98445fa188606b440b5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC99bOY05wfWsX0\n3e2hHSAyuFY1jrN75KMvMZw67O4+xUkf7qmvYSjYGl2IHOlNUVseidSWSLYFIXEm\nXZ+b014Pxa//qtcR9B7istKdIs6cwo6UAhFDw8M520m4qf2ZavUSoub+r7R0kvF1\n+0qu1dbt70DmO4lKyDNG0nmw0wONGrfSBjq2dm7fD6q+GnIDC+DPyuXND305BT64\n53V04gox1gBqd5Gsuc4pcczjMKQ8YXPzlsSjUxROsTChPyYY6ymaYvJQmhD6rZac\nN90NItXn2Ej7EjD082OT9yNFlLa1vsbjvUfzzozw46jP2U3yW4mNmHz7g4uOGFpY\nLPtTHflzAgMBAAECggEAMRZ2oCYCwKl84S+eUhWMNf8jq/hh0kC9mJr509JZKJhj\nsqBCciMp4lpB1EQgV84PvV8BtAo7Gy1Op4rnDWX79xhvSCK2LBoJBy0NtvSBLsop\n/P5hxsCmSOOtc85dzdDxXq0BA0yVVdCJHCNhY7e3sEm03CoDavM8KO+H6dVFpCcR\np7qR0bsCIQqECO3ujaaPaWlh+iE0N7seUMrDQ6wyxeeddo8hc6JH8Adom6YWCfcs\nXyr6KbA0G5HVbehHVDgTAwalwcXXPlzk/ZzGbRNSNxH9RafKJVVIitG3MDTwaTUu\n3kRXQqqzEmC7UM2BPJrpIGztJfbJHtR+u6QbZSxEwQKBgQD/cXP1avdIRSD/smlB\nxDCelAAo5RZJO0q5zpC6GNaNc0SivXE0EgSaZSc0HIlzCvuxibpAWxkG0ANRTEli\nO2DAnh0UCHHPaVjNB+NTL43tvdIZIxic1L0OwoMcy7Mu+CCAkfHuj0VAKpD/hoN8\ntTRBxS2yTjxj88cMgVFACmbxQQKBgQC+X7TTVkrQKo/KUmYH9a1nIfBXUVSZCUPE\nDKitAfnHjYR9KvTQywu70qGkJmlAM9nFXwKgje/hdwBFS12cEnTQKrzV+/pRXGwo\nxBAnAg2iqV/22I5TJae2SxTmKpwdbxiKbRsphQll+OHFT7OsTvNUhU7e+sO0AfW8\no4ilHKgJswKBgQDKOFyeSsHceq12/xyIrfH3eB7wQPt1mfS8R6UXThZ8AGazltmJ\naUIvoCh6/qRpaKZ8lBXYYMXdOMuHjqcBlxQvKHzIoS7IDhP4rGfwMNNhBEbRE5Gm\nhlvs1VvKbhA5/MBuSBuIye7+rzP+tdRd422tK5XTdFAmqJRJeA6Ebje0gQKBgAEZ\nGDfn1YKh3DZ0hzYgiqF/pp06UNyZGxT0ZbypuEEYZd069DKIGUc6DciemBjQs77Z\nr3AxoWKRhyTfLGkMCjRxKqmpTGZPvCf4CYfQETgQ9ga8dQWxv+fjQvmY4VGiJGgX\n/QIeTFGUP+kdbpHd2rVwF2Zd1+cf48T0xIL/SVDVAoGBAL53K74CrX1WjSkRocDc\nJNrdXblNTJEcVKBtO1TMW9Tsd+GxVB0VULHF2zrk0UEYx3lIiue9ZrE/UwdPuYsU\n+MJeCMfeLYktLFWmI7deaBa1pN1rzme8ipPusDl6nOb+nT3KHMsBbeelZca1VJxF\nfuyAWkx9GWBmgxjipfWHCaFR\n-----END PRIVATE KEY-----\n",
+  "client_email": "kargin@youtube-304617.iam.gserviceaccount.com",
+  "client_id": "115154084481343182827",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kargin%40youtube-304617.iam.gserviceaccount.com"
+}
