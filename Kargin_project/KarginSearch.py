@@ -71,5 +71,13 @@ class KarginSearch:
 
     def find(self, query, filters):
         data = self.apply_filters(filters)
-        results = self.exact_search(data, query) or self.fuzzy_search(data, query)
+
+        # TODO:
+        # replace the following lines with
+        # `results = self.exact_search(data, query) or self.fuzzy_search(data, query)`
+        # whenever the world becomes full of գեղեցկությունը հարգող տղա's
+        results = self.exact_search(data, query)
+        if results is None:
+            results = self.fuzzy_search(data, query)
+
         return results
