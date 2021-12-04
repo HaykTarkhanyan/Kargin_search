@@ -9,5 +9,6 @@ pytest
 
 telegram
 google-api-python-client
+oauth2client
 
 flask
