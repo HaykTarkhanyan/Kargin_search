@@ -24,7 +24,7 @@ class KarginSearch:
 
         return self.data[mask]
 
-    def exact_search(self, query, data):
+    def exact_search(self, data, query):
         # debug purposes; remove later
         # self.data = pd.read_csv("../Կարգին 2+3րդ փլեյլիստ - Sheet3.csv").dropna(subset=["Տեքստ"])
 
@@ -62,7 +62,7 @@ class KarginSearch:
         score = 0.3 * a + 0.3 * b + 0.4 * c
         return score
 
-    def fuzzy_search(self, query, data):
+    def fuzzy_search(self, data, query):
         # TODO:
         # replace "Տեքստ" with sth more meaningful
         data["similarity_score"] = data["Տեքստ"].apply(KarginSearch.get_similarity_score, keyword_input=query)
